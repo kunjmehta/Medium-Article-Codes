@@ -9,6 +9,7 @@ This repository contains all the code accompanying my articles on [Medium](https
 5. [What Mainstream AI is (Not) Doing](https://towardsdatascience.com/what-mainstream-ai-is-not-doing-9a2f7236a4f7)
 6. [10 Points to Make it Big in the Data Industry](https://towardsdatascience.com/10-points-to-make-it-big-in-the-data-industry-db62dfdcd9f2)
 7. [A Philosophical Look at Climate Change](https://kunjmehta10.medium.com/a-philosophical-look-at-climate-change-5f5a2922f761)
+8. [Why Gradient Descent Works?](https://towardsdatascience.com/why-gradient-descent-works-4e487d3c84c1)
 
 ### Tech Stack
 * Python 3
